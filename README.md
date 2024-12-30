@@ -1,2 +1,1 @@
-# IITH Hackathon
- the repo of our code
+Our hackathon project code, created during our participation in the IIT Hyderabad college hackathon.
